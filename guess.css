@@ -6,9 +6,9 @@
         position: absolute;
         top: 338px;
         background-color: rgb(26, 190, 67);
-        left: 46%;
+        left: 40%;
         border: none;
-        height: 50px;
+        height: 46px;
         width: 100px;
         border-radius: 15px;
         font-weight: bold;
@@ -19,6 +19,7 @@
         font-size: 3em;
     }
     body {
+        color: white;
         text-align: center;
         background: rgb(27, 27, 28);
     }
@@ -33,7 +34,7 @@
         font-weight: bold;
         font-size: 1.2em;
         position: absolute;
-        left: 39.5%;
+        left: 33.5%;
     }
     
     .nextB {
