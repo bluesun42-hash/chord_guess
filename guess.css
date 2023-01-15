@@ -12,11 +12,13 @@
         width: 100px;
         border-radius: 15px;
         font-weight: bold;
+        color:white;
     }
     .guess {
         margin-top: 175px;
         font-weight: bold;
         font-size: 3em;
+        color:white;
     }
     body {
         color: white;
@@ -35,12 +37,14 @@
         font-size: 1.2em;
         position: absolute;
         left: 30.5%;
+        color:white;
     }
     
     .nextB {
         background-color: rgb(26, 190, 67);
         height: 75px;
         width: 75px;
+        color: white;
         border: none;
         border-radius: 500px;
         font-size: 1.2em;
@@ -99,7 +103,7 @@
         font-weight: bold;
         position: absolute;
         top: 44%;
-        left: 47.2%;
+        left: 46.2%;
     }
 }
 
