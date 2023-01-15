@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+}
+
+.playB {
+    background-color: rgb(26, 190, 67);
+    text-align: center;
+    border: none;
+    width: 21%;
+    height: 42px;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 1.2em;
+    position: absolute;
+    left: 39.5%;
+}
+
+.nextB {
+    background-color: rgb(26, 190, 67);
+    height: 75px;
+    width: 75px;
+    border: none;
+    border-radius: 500px;
+    font-size: 1.2em;
+    font-weight: bold;
+    position: absolute;
+    top: 44.5%;
+    left: 47.2%;
+}
+
+.guess {
+    margin-top: 175px;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+.reveal {
+    position: absolute;
+    top: 338px;
+    background-color: rgb(26, 190, 67);
+    left: 572px;
+    border: none;
+    height: 42px;
+    width: 100px;
+    border-radius: 15px;
+    font-weight: bold;
+}
